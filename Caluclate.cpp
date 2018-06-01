@@ -6,7 +6,7 @@
 #include <string>
 using namespace std;
 
-
+/////////////²âÊÔ¸üĞÂ
 int GetResult(WORD &index, string strInput)
 {
 	string strOneNum;
