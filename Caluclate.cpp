@@ -102,6 +102,7 @@ loop:
 
 int main()
 {
+	cout << "test" << endl;
 	system("title ¼ÆËãÆ÷");
 	WORD type = 1;
 
