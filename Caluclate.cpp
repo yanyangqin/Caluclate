@@ -102,15 +102,15 @@ loop:
 
 int main()
 {
-	cout << "test" << endl;
-	system("title 计算器");
+	cout << "test2" << endl;
+	system("title 计算器2");
 	WORD type = 1;
 
 	while(type != 2)
 	{
 		CaluclateResult();
 loop:
-		cout << "需要继续计算吗 ?" << endl;
+		cout << "需要继续计算吗2 ?" << endl;
 		cout << "  1.继续计算	" << endl;
 		cout << "  2.退出程序	" << endl;
 		cin >> type;
